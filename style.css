@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 70%;
+    margin: 0px auto;
+}
+.container{
+    display: flex;
+}
+.left{
+    width: 17rem;
+    background-color:#1b2b47;
+    border: 1px solid black;
+    
+}
+.det{
+    display: flex;
+    gap: 10px;
+}
+.fa-solid{
+    width: 20px;
+    height: 20px;
+    color: aliceblue;
+}
+img{
+    display: block;
+    height:auto;
+    width: 18vw;
+    border-radius: 50% ;
+    margin:20px auto;
+    border: 5px solid white;
+     
+}
+.data{
+   margin: 0px 25px;
+}
+.sub{
+    margin: 20px 0px;
+    color: white;
+}
+p{
+    color: whitesmoke;
+}
+.rht{
+    display: flex;
+    justify-content: center;
+}
+
