@@ -28,7 +28,7 @@ body{
 img{
     display: block;
     height:auto;
-    width: 18vw;
+    width: 13vw;
     border-radius: 50% ;
     margin:20px auto;
     border: 5px solid white;
@@ -74,4 +74,7 @@ h1{
 }
 h2{
     color: rgba(128, 0, 128, 0.272);
+}
+@media screen(main-width:750px){
+
 }
